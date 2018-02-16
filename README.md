@@ -1,2 +1,0 @@
-# Prointer
-programación para  Internet
